@@ -4,11 +4,18 @@
 
 <h1 align="center">Vishnu C Prasad</h1>
 
+<p>
+Logical and results-driven Junior Web Developer dedicated to building and optimizing user-focused websites for customers with various business objectives. Judicious and creative when crafting effective websites and platforms to propel competitive advantage and revenue growth. Technically proficient and analytical problem solver with calm and focused demeanor.
+</p>
+
+<hr>
+
 ```js
 class Developer {
     constructor(props) {
         this.name = props.name;
         this.title = props.title;
+        this.birthday = props.birthday;
         this.location = props.location;
     }
     whoAmI() {
@@ -40,6 +47,7 @@ class Me extends Developer {
 const props = {
     name: 'Vishnu C Prasad',
     title: 'Web Developer',
+    birthday: '25 August 2001',
     location: 'Kanjirappally, Kottayam, Kerala, India'
 };
 
@@ -60,7 +68,8 @@ console.log(me.whoAmI());
 ```
 {
   name: 'Vishnu C Prasad',
-  title: 'Web Developer', 
+  title: 'Web Developer',
+  birthday: '25 August 2001',
   location: 'Kanjirappally, Kottayam, Kerala, India',
   skills: {
     languages: [ 'HTML', 'CSS', 'JavaScript', 'NodeJS' ],

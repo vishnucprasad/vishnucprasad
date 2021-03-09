@@ -91,11 +91,11 @@ console.log(me.whoAmI());
   <a href="https://www.linkedin.com/in/mrvishnucp001/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vishnucprasad.github.io">
-    <img src="https://www.vectorlogo.zone/logos/internetsociety/internetsociety-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/vishnu_c_prasad/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
   </a>

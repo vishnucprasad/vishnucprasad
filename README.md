@@ -92,7 +92,7 @@ console.log(me.whoAmI());
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vishnucprasad.github.io">
+  <a href="https://vishnucprasad.in">
     <img src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

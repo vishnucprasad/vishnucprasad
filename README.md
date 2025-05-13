@@ -3,7 +3,7 @@
     <td width="60%" align="center">
       <img src="./vishnucprasad.gif" alt="Vishnu C Prasad GIF" width="100%" />
     </td>
-    <td width="60%">
+    <td width="40%">
 
 ### 💫 About Me
 

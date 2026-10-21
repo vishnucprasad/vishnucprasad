@@ -48,16 +48,6 @@ applications.
 
 ## 🚀 Featured Projects
 
-### Aaraadhya Admin App
-A temple management application built with Flutter, Firebase,
-Riverpod, and MVVM architecture.
-
-Key areas:
-- Temple and event management
-- Pooja scheduling and registrations
-- Donation management
-- Firebase integration
-
 ### Workshop Management App
 A Flutter application with BLoC state management and Socket.IO
 for real-time communication.
